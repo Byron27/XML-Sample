@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sports>
+  <volleyball>
+    <team>
+      <name>USA Men's National Volleyball Team</name>
+      <city>Colorado Springs</city>
+      <federation>FIVB</federation>
+    </team>
+    <player>
+      <name>Matt Anderson</name>
+      <position>Opposite</position>
+      <jersey_number>1</jersey_number>
+    </player>
+    <coach>
+      <name>John Speraw</name>
+      <experience>10 years</experience>
+      <championships>2</championships>
+    </coach>
+    <arena>
+      <name>Palanca de los Deportes</name>
+      <city>Cordoba</city>
+      <capacity>12,000</capacity>
+    </arena>
+    <championships>
+      <year>2014</year>
+      <result>Won</result>
+      <opponent>Brazil</opponent>
+    </championships>
+  </volleyball>
+  
+  <basketball>
+    <team>
+      <name>Golden State Warriors</name>
+      <city>San Francisco Bay Area</city>
+      <conference>Western Conference</conference>
+    </team>
+    <player>
+      <name>Stephen Curry</name>
+      <position>Point Guard</position>
+      <jersey_number>30</jersey_number>
+    </player>
+    <coach>
+      <name>Steve Kerr</name>
+      <experience>7 years</experience>
+      <championships>3</championships>
+    </coach>
+    <arena>
+      <name>Chase Center</name>
+      <city>San Francisco</city>
+      <capacity>18,064</capacity>
+    </arena>
+    <championships>
+      <year>2015</year>
+      <result>Won</result>
+      <opponent>Cleveland Cavaliers</opponent>
+    </championships>
+  </basketball>
+  
+  <badminton>
+    <team>
+      <name>Chinese National Badminton Team</name>
+      <city>Beijing</city>
+      <federation>BWF</federation>
+    </team>
+    <player>
+      <name>Lin Dan</name>
+      <position>Singles</position>
+      <jersey_number>1</jersey_number>
+    </player>
+    <coach>
+      <name>Li Yongbo</name>
+      <experience>20 years</experience>
+      <championships>18</championships>
+    </coach>
+    <arena>
+      <name>National Indoor Stadium</name>
+      <city>Beijing</city>
+      <capacity>17,000</capacity>
+    </arena>
+    <championships>
+      <year>2012</year>
+      <result>Won</result>
+      <opponent>Lee Chong Wei</opponent>
+    </championships>
+  </badminton>
+  <tennis>
+    <player>
+      <name>Roger Federer</name>
+      <country>Switzerland</country>
+      <rank>6</rank>
+    </player>
+    <coach>
+      <name>Ivan Ljubicic</name>
+      <nationality>Croatia</nationality>
+      <experience>5 years</experience>
+    </coach>
+    <tournament>
+      <name>Wimbledon</name>
+      <year>2019</year>
+      <result>Quarterfinals</result>
+    </tournament>
+    <equipment>
+      <racquet>Wilson Pro Staff RF 97 Autograph</racquet>
+      <shoes>Nike Air Zoom Vapor X</shoes>
+      <apparel>Uniqlo</apparel>
+    </equipment>
+    <match>
+      <opponent>Rafael Nadal</opponent>
+      <venue>Centre Court, Wimbledon</venue>
+      <result>Won</result>
+    </match>
+  </tennis>
+  
+  <soccer>
+    <team>
+      <name>Real Madrid CF</name>
+      <city>Madrid</city>
+      <country>Spain</country>
+    </team>
+    <player>
+      <name>Cristiano Ronaldo</name>
+      <position>Forward</position>
+      <jersey_number>7</jersey_number>
+    </player>
+    <coach>
+      <name>Zinedine Zidane</name>
+      <nationality>France</nationality>
+      <experience>3 years</experience>
+    </coach>
+    <stadium>
+      <name>Santiago Bernabeu</name>
+      <city>Madrid</city>
+      <capacity>81,044</capacity>
+    </stadium>
+    <match>
+      <opponent>FC Barcelona</opponent>
+      <venue>Camp Nou, Barcelona</venue>
+      <result>Lost</result>
+    </match>
+  </soccer>
+</sports>
